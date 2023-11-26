@@ -1,0 +1,12 @@
+# Python cache files
+*.pyc
+__pycache__/
+
+# pyenv: Used to define which version of Python is used locally
+.python-version
+
+# direnv
+.envrc
+
+# temporary files created by flit
+dist
